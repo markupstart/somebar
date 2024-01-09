@@ -1,0 +1,15 @@
+# ninja log v5
+1	3	1703881667551061294	somebar.p/wlr-layer-shell-unstable-v1-client-protocol.h	30b0813514720c3f
+1	3	1703881667551061294	somebar.p/wlr-layer-shell-unstable-v1-protocol.c	f089050d7b33ac77
+1	4	1703881667551061294	somebar.p/xdg-shell-protocol.c	258543c3483f53e4
+1	4	1703881667552061312	somebar.p/xdg-shell-client-protocol.h	16d75acb4b1a75f
+1	10	1703881667558061419	somebar.p/xdg-output-unstable-v1-protocol.c	b933655dda3f8bda
+1	10	1703881667558061419	somebar.p/xdg-output-unstable-v1-client-protocol.h	14b96ffbdcebea8a
+10	29	1703881667576061738	somebar.p/meson-generated_xdg-output-unstable-v1-protocol.c.o	86ecab961aeeed2b
+10	29	1703881667576061738	somebar.p/meson-generated_wlr-layer-shell-unstable-v1-protocol.c.o	d13c1db0c1fcee6
+10	29	1703881667577061756	somebar.p/meson-generated_xdg-shell-protocol.c.o	29bcb301e01c2d1c
+10	325	1703881667872066957	somebar.p/src_shm_buffer.cpp.o	4c51f633107e1adb
+1	483	1703881695106546648	somebar.p/src_bar.cpp.o	fb45732bdbca9e82
+1	742	1703881695364551190	somebar.p/src_main.cpp.o	216c8f6ec0607e88
+742	792	1703881695415552088	somebar	974176fa068856bb
+1	99	0	meson-internal__install	9bd7faa9472bf40f
